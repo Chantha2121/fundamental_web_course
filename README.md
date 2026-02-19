@@ -9,7 +9,7 @@ Here is the **shortest version** focusing only on **how to set up VS Code** (no 
 
 ---
 
-## 2️⃣ ដំឡើងតាម OS
+## 2️. ដំឡើងតាម OS
 
 ### 🪟 Windows
 1. បើក `.exe` file ដែលបាន download
@@ -33,7 +33,7 @@ sudo apt install ./[filename].deb
 
 ---
 
-## 3️⃣ ក្រោយដំឡើងរួច
+## 3️. ក្រោយដំឡើងរួច
 
 ### 🔌 ដំឡើង Extensions សំខាន់ៗ
 1. ចុច `Ctrl+Shift+X` (Windows/Linux) ឬ `Cmd+Shift+X` (macOS)
