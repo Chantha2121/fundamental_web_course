@@ -63,15 +63,6 @@ npm init -y
 
 ---
 
-## 🔹 5. Install package
-
-```bash
-npm install express
-```
-
-👉 ឧទាហរណ៍ install Express.js
-
----
 
 ## 💡 Tip សំខាន់
 
