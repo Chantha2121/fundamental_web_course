@@ -12,3 +12,6 @@ Link : https://youtu.be/6gamLD-aEs8
 
 ### 5. Javascript Part3 Video
 Link : https://youtu.be/3pybTP_ZTIY
+
+### 6. Javascript Part4 Video
+Link : https://youtu.be/rr5bAk_ks7o
