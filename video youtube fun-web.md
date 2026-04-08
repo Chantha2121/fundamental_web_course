@@ -15,3 +15,6 @@ Link : https://youtu.be/3pybTP_ZTIY
 
 ### 6. Javascript Part4 Video
 Link : https://youtu.be/rr5bAk_ks7o
+
+### 7. Design by Figma Part1
+Link : https://youtu.be/33lmnilqAMc
