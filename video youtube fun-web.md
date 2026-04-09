@@ -18,3 +18,6 @@ Link : https://youtu.be/rr5bAk_ks7o
 
 ### 7. Design by Figma Part1
 Link : https://youtu.be/33lmnilqAMc
+
+### 7. Design by Figma Part2
+Link : https://youtu.be/ZzfKDvFwbqQ
