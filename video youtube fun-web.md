@@ -25,3 +25,15 @@ Link : https://youtu.be/ZzfKDvFwbqQ
 ### 9. Design by Figma Part3
 Link : https://youtu.be/Y4EZhelF3Wo
 
+### 10. JQuery Part 1
+Link : https://youtu.be/d5kktRbThc8
+
+### 11. JQuery Part 2
+Link : https://youtu.be/gkn0s_ZHQQw
+
+### 12. Depoly Project and Add domain
+Link : https://youtu.be/2ar-HHLSuik
+
+### 13. Basic React .js
+Link : https://youtu.be/7s8V0QQ4qpI
+
